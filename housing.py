@@ -127,7 +127,7 @@ def fig_test(interactive=True):
     finally: globals().update(locals())
 
 
-pylogo = '/Users/marymiller/python-logo.py'
+pylogo = '~/python-logo.py'
 def reportlab_test(): 
     try:
         pass
@@ -147,6 +147,6 @@ def f():
         pass
     finally: globals().update(locals())
 
-
+# yoo
 
 
